@@ -38,7 +38,12 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/zustand-000000.svg?style=for-the-badge&logo=zustand&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/tanstack%20query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white" />&nbsp
 </div>
